@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\Complex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -19,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{F2583B12-BCE9-45D2-99F4-B9D37E99A923}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BE8CAE2-DDEB-4E74-9DA1-4C512E5F7E19}|Polynomial_Class\\Polynomial_Class.vcxproj|C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3BE8CAE2-DDEB-4E74-9DA1-4C512E5F7E19}|Polynomial_Class\\Polynomial_Class.vcxproj|solutionrelative:Polynomial_Class\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F2583B12-BCE9-45D2-99F4-B9D37E99A923}|Car_Class\\Car_Class.vcxproj|C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Car_Class\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F2583B12-BCE9-45D2-99F4-B9D37E99A923}|Car_Class\\Car_Class.vcxproj|solutionrelative:Car_Class\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6AE26AC6-A5DC-4933-A1C6-FC069D32B4DC}|Complex_Class\\Complex_Class.vcxproj|solutionrelative:Complex_Class\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SportsCar.h",
               "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Car_Class\\SportsCar.h",
               "RelativeDocumentMoniker": "Car_Class\\SportsCar.h",
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Lec04_Array_Class\\main.cpp",
               "RelativeDocumentMoniker": "Lec04_Array_Class\\main.cpp",
@@ -67,19 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Polynomial.h",
-              "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
-              "RelativeDocumentMoniker": "Polynomial_Class\\Polynomial.h",
-              "ToolTip": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Polynomial_Class\\Polynomial.h",
-              "RelativeToolTip": "Polynomial_Class\\Polynomial.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-10T06:03:36.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Complex.h",
               "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.h",
               "RelativeDocumentMoniker": "Complex_Class\\Complex.h",
@@ -87,17 +71,18 @@
               "RelativeToolTip": "Complex_Class\\Complex.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-04-10T05:50:13.384Z"
+              "WhenOpened": "2026-04-10T05:50:13.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Complex.cpp",
               "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp",
               "RelativeDocumentMoniker": "Complex_Class\\Complex.cpp",
               "ToolTip": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\Complex.cpp",
               "RelativeToolTip": "Complex_Class\\Complex.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-10T05:46:20.247Z",
               "EditorCaption": ""
@@ -116,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\bagju\\OneDrive\\\uBB38\uC11C\\data-structure-lab-2026-4\\Lec04_Array_Class\\Car_Class\\main.cpp",
               "RelativeDocumentMoniker": "Car_Class\\main.cpp",
