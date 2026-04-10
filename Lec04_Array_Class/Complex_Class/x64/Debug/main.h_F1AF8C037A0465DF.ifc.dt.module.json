@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\main.obj",
+            "outputs": [
+                "x64\\Debug\\main.h_F1AF8C037A0465DF.ifc.dt.module.json",
+                "x64\\Debug\\main.h_F1AF8C037A0465DF.ifc.dt.d.json",
+                "x64\\Debug\\main.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\bagju\\OneDrive\\문서\\data-structure-lab-2026-4\\Lec04_Array_Class\\Complex_Class\\main.h",
+                    "source-path": "c:\\users\\bagju\\onedrive\\문서\\data-structure-lab-2026-4\\lec04_array_class\\complex_class\\main.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
