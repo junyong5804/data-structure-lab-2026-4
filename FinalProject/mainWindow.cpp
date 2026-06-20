@@ -358,4 +358,3 @@ void MainWindow::drawRoute()
     lineLabel->raise();
 }
 
-1
