@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: 확인할 수 없는 외부 기호 mainCRTStartup
+C:\Users\bagju\OneDrive\문서\data-structure-lab-2026-4\Project4\x64\Debug\Project4.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
